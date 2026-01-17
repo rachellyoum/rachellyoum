@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rachel%20Youm&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Computing%20Science%20Student&descAlignY=55)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rachel+Youm;Full-Stack+Developer;Computing+Science+Student" />
+</p>
+
 
 ## Hi there 👋
 
