@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rachel%20Youm&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Computing%20Science%20Student&descAlignY=55)
+
 ## Hi there 👋
 
 <!--
