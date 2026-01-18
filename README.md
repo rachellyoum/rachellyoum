@@ -1,4 +1,4 @@
-## Hi, I'm 👋
+## Hi, I'm Rachel👋
 
 # 💫 About Me:
 🔭 Working on: Full-stack web apps<br>🌱 Learning: Backend development & APIs<br>👯 Collaborate on: Team software projects
